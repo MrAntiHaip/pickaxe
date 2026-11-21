@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "storypickaxes:item/petrified_root_pickaxe"
+  }
+}

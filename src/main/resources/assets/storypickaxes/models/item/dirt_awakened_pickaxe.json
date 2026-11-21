@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "storypickaxes:item/dirt_awakened_pickaxe"
+  }
+}

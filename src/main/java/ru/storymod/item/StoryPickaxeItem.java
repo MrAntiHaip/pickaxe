@@ -197,9 +197,9 @@ public class StoryPickaxeItem extends PickaxeItem {
                             targetPos = pos.add(dx, yDir, dy);
                         } else {
                             targetPos = pos.add(
-                                    facing.getOffsetX() * dz + facing.RotateYClockwise().getOffsetX() * dx,
+                                    facing.getOffsetX() * dz + facing.rotateYClockwise().getOffsetX() * dx,
                                     dy,
-                                    facing.getOffsetZ() * dz + facing.RotateYClockwise().getOffsetZ() * dx
+                                    facing.getOffsetZ() * dz + facing.rotateYClockwise().getOffsetZ() * dx
                             );
                         }
 
